@@ -1,0 +1,14 @@
+{
+  "name": "projetos",
+  "version": "1.0.0",
+  "description": "Exercícios Staart",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "arianaacarvalho",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.0.0"
+  }
+}
